@@ -1,0 +1,17 @@
+.container-nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.img-nav {
+    text-align: center;
+}
+
+h2 {
+    font-size: 16px;
+}
+
+.container-polular{
+    display: flex;
+    gap: 5px;
+}
